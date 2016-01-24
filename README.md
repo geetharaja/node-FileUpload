@@ -8,6 +8,11 @@
 - node start
 - http://localhost:3000
 
+
+# Test Cases:
+- TC1: UI should display a button to upload a file
+- TC2: The uploaded file should be visible under a folder called 'uploads'
+
 # Git commands - daily used:
 - git status
 - git diff
