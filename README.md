@@ -17,4 +17,3 @@
 - git commit -am "Proper message"
 - git pull --rebase
 - git push origin master
-
