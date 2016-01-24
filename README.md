@@ -5,5 +5,5 @@
 - git clone https://github.com/geetharaja/node-FileUpload.git
 - cd  node-FileUpload
 - npm install
-- node bin/www
+- node start
 - http://localhost:3000
