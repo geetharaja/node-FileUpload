@@ -13,6 +13,8 @@
 - TC1: UI should display a button to upload a file
 - TC2: The uploaded file should be visible under a folder called 'uploads'
 
+# Design:
+![alt text](https://github.com/geetharaja/node-FileUpload/blob/master/design.png   "File upload design")
 # Git commands - daily used:
 - git status
 - git diff
